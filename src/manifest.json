@@ -10,7 +10,7 @@
    "content_security_policy": "default-src 'self'; connect-src http: https:; script-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; frame-src 'self' about: ",
    "default_locale": "en",   
    "devtools_page": "devtools-page.html",
-   "homepage_url": "https://developers.google.com/speed/docs/insights/using_chrome",
+   "homepage_url": "http://performancescorecard.net",
    "icons": {
       "128": "perf-scorecard-128.png",
       "16": "perf-scorecard-16.png",
