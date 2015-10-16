@@ -23,6 +23,6 @@
    "name": "Performance Scorecard",
    "options_page": "options.html",
    "permissions": [ "tabs", "unlimitedStorage", "webNavigation", "http://*/*", "https://*/*" ],
-   "version": "2.1",
+   "version": "1.0",
    "web_accessible_resources": [ "devtools-page.html", "devtools-page.js", "pagespeed-devtools-icon.png", "PagespeedChromium.html" ]
 }
