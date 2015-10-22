@@ -21,8 +21,9 @@
    "manifest_version": 2,
    "minimum_chrome_version": "19.0",
    "name": "Performance Scorecard",
+   "short_name": "PerfScore",
    "options_page": "options.html",
    "permissions": [ "tabs", "unlimitedStorage", "webNavigation", "http://*/*", "https://*/*" ],
-   "version": "1.0",
+   "version": "1.0.1",
    "web_accessible_resources": [ "devtools-page.html", "devtools-page.js", "pagespeed-devtools-icon.png", "PagespeedChromium.html" ]
 }
